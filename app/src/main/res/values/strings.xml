@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">EsamuRFT</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_map">Map</string>
+    <string name="action_quests">Quests</string>
+    <string name="action_camera">Camera</string>
+    <string name="action_recipes">Recipes</string>
+    <string name="action_baseview">Base</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_item_list">Items</string>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="facebook_app_id">1349245411775476</string>
+    <string name="fb_login_protocol_scheme">fb1349245411775476</string>
+    <string name="cancel_Login">Login cancelled.</string>
+    <string name="error_Login">Login unsuccessfulled.</string>
+    <string name="logout">Logout</string>
+</resources>

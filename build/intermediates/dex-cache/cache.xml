@@ -1,0 +1,545 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anti\Desktop\PRT\RFT_Login_Facebook-master\RFT_Login_pelda\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="79f521967ad7f49b34748db89df02852c2b2f87b">
+        <dex dex="C:\Users\Anti\Desktop\PRT\RFT_Login_Facebook-master\RFT_Login_pelda\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-9.6.1_78d387482d98ae8e8691d1c6e5e213e278f17ec2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anti\Desktop\PRT\RFT_Login_Facebook-master\RFT_Login_pelda\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="C:\Users\Anti\Desktop\PRT\RFT_Login_Facebook-master\RFT_Login_pelda\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.0_782a3e500fb0a79204f0bde1f49998c59b1f99cd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anti\Desktop\PRT\RFT_Login_Facebook-master\RFT_Login_pelda\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="C:\Users\Anti\Desktop\PRT\RFT_Login_Facebook-master\RFT_Login_pelda\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.0_9064c7c3dca474f5d9c92f52972b7e88647b49c9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anti\Desktop\PRT\RFT_Login_Facebook-master\RFT_Login_Facebook-master\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="C:\Users\Anti\Desktop\PRT\RFT_Login_Facebook-master\RFT_Login_Facebook-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.1_85761a3b2237e959136a5ebb022cd9b653ad6a67\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anti\Desktop\PRT\RFT_Login_Facebook-master\RFT_Login_Facebook-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="C:\Users\Anti\Desktop\PRT\RFT_Login_Facebook-master\RFT_Login_Facebook-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.0_6a73e3636a7c1524270a32e1d9bc849d620b4deb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anti\Desktop\PRT\RFT_Login_Facebook-master\RFT_Login_pelda\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="C:\Users\Anti\Desktop\PRT\RFT_Login_Facebook-master\RFT_Login_pelda\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.0_7dcdb6203301afbc45e6de6ff6a2c96772250dba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anti\Desktop\PRT\RFT_Login_Facebook-master\RFT_Login_Facebook-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Anti\Desktop\PRT\RFT_Login_Facebook-master\RFT_Login_Facebook-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.0_62abc784d2b56a977d0b4387a68fc15d1c0ad21e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anti\Desktop\PRT\RFT_Login_Facebook-master\RFT_Login_Facebook-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="C:\Users\Anti\Desktop\PRT\RFT_Login_Facebook-master\RFT_Login_Facebook-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_6c66b742530039dacdd6b26f4e99c3ee0fb86b7f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anti\Desktop\PRT\RFT_Login_Facebook-master\RFT_Login_Facebook-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="C:\Users\Anti\Desktop\PRT\RFT_Login_Facebook-master\RFT_Login_Facebook-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_f220bd807e305e1b0977d48e9110b65fc8cd35f4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anti\Desktop\PRT\RFT_Login_Facebook-master\RFT_Login_Facebook-master\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="C:\Users\Anti\Desktop\PRT\RFT_Login_Facebook-master\RFT_Login_Facebook-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.1_cc65e547f80fe1add566594dc7f4f99b3b4742d6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anti\Desktop\PRT\RFT_Login_Facebook-master\RFT_Login_Facebook-master\app\build\intermediates\exploded-aar\com.android.support\customtabs\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94ba691efc31bf53264db0716d9c9ec03843ea31">
+        <dex dex="C:\Users\Anti\Desktop\PRT\RFT_Login_Facebook-master\RFT_Login_Facebook-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-customtabs-25.0.0_47ec2e85047a9ec83dd38a5db894c7528a034aca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anti\Desktop\PRT\RFT_Login_Facebook-master\RFT_Login_pelda\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="62ff84124b89177abc0c27f3e38c9732f2d41617">
+        <dex dex="C:\Users\Anti\Desktop\PRT\RFT_Login_Facebook-master\RFT_Login_pelda\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-9.6.1_de95523bb5f3cfa9ca1e7003c235f99ce4306c5f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anti\Desktop\PRT\RFT_Login_Facebook-master\RFT_Login_pelda\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="C:\Users\Anti\Desktop\PRT\RFT_Login_Facebook-master\RFT_Login_pelda\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.0_ce448e4949b84a6f3df1a8374067d603bd5383a3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anti\Desktop\PRT\RFT_Login_Facebook-master\RFT_Login_pelda\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="C:\Users\Anti\Desktop\PRT\RFT_Login_Facebook-master\RFT_Login_pelda\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.0_a1c0c660f251a1bf80927121108d8410d2ff1f40\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anti\Desktop\PRT\RFT_Login_Facebook-master\RFT_Login_Facebook-master\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.17.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="23c7c34bfb3cdc0599d49e581486b179bc6b2eee">
+        <dex dex="C:\Users\Anti\Desktop\PRT\RFT_Login_Facebook-master\RFT_Login_Facebook-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.android-facebook-android-sdk-4.17.0_415d2737c1b175d1f4b622fa20cc3bc2c86cf6f9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anti\Desktop\PRT\RFT_Login_Facebook-master\RFT_Login_Facebook-master\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8a372c4191f80489770a231f7be4820b204b886a">
+        <dex dex="C:\Users\Anti\Desktop\PRT\RFT_Login_Facebook-master\RFT_Login_Facebook-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-25.0.0_f1d2b4bcf7b1fb3dbeb7104baa0cb32327e01184\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anti\Desktop\PRT\RFT_Login_Facebook-master\RFT_Login_Facebook-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="C:\Users\Anti\Desktop\PRT\RFT_Login_Facebook-master\RFT_Login_Facebook-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.0_d7db2f3be6a74223fdcd8bf0d08b99888faea546\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anti\Desktop\PRT\RFT_Login_Facebook-master\RFT_Login_pelda\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="C:\Users\Anti\Desktop\PRT\RFT_Login_Facebook-master\RFT_Login_pelda\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_06a6e00f87c8c19e00e6690cfdc2807b90599ea3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anti\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\Anti\Desktop\PRT\RFT_Login_Facebook-master\RFT_Login_Facebook-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-tasks-1.4.0_43441ebb3bef25663950c71e2c62d3e31f03e127\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anti\Desktop\PRT\RFT_Login_Facebook-master\RFT_Login_Facebook-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="C:\Users\Anti\Desktop\PRT\RFT_Login_Facebook-master\RFT_Login_Facebook-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.0_09491d2f7356d1147ffeb277c0d411a85e6c3055\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anti\Desktop\PRT\RFT_Login_Facebook-master\RFT_Login_pelda\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="C:\Users\Anti\Desktop\PRT\RFT_Login_Facebook-master\RFT_Login_pelda\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_93af32121dc2272c1874b967d88e4b444d1b6bb6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anti\Desktop\PRT\RFT_Login_Facebook-master\RFT_Login_pelda\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ca851be26ff89f5b32cc222cee98139fb3fac830">
+        <dex dex="C:\Users\Anti\Desktop\PRT\RFT_Login_Facebook-master\RFT_Login_pelda\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-9.8.0_79cc226ab0a0aaecad846fadb80f06f71a56d8a9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anti\Desktop\PRT\RFT_Login_Facebook-master\RFT_Login_pelda\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="C:\Users\Anti\Desktop\PRT\RFT_Login_Facebook-master\RFT_Login_pelda\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.0_2e992c3d88931849a53dc360149b63ba1653664f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anti\Desktop\PRT\RFT_Login_Facebook-master\RFT_Login_pelda\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="C:\Users\Anti\Desktop\PRT\RFT_Login_Facebook-master\RFT_Login_pelda\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.1_c0636fff75cb99c71d350a181f14a64619c3b3fe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anti\Desktop\PRT\RFT_Login_Facebook-master\RFT_Login_Facebook-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="C:\Users\Anti\Desktop\PRT\RFT_Login_Facebook-master\RFT_Login_Facebook-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.0_8949699e091db12bbc9f6d3dcf3d7b97657d9ed6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anti\Desktop\PRT\RFT_Login_Facebook-master\RFT_Login_pelda\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Anti\Desktop\PRT\RFT_Login_Facebook-master\RFT_Login_pelda\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.0_5c92dc74fe23a4b5750bcec69d75cb2fd4deae32\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anti\Desktop\PRT\RFT_Login_Facebook-master\RFT_Login_Facebook-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="C:\Users\Anti\Desktop\PRT\RFT_Login_Facebook-master\RFT_Login_Facebook-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.0_ac9cae41404eb3de205c00ce841682da6f04424d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anti\Desktop\PRT\RFT_Login_Facebook-master\RFT_Login_Facebook-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="C:\Users\Anti\Desktop\PRT\RFT_Login_Facebook-master\RFT_Login_Facebook-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.0_682903889646c8fdb998711dfb528573014843ef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anti\Desktop\PRT\RFT_Login_Facebook-master\RFT_Login_pelda\app\build\intermediates\exploded-aar\com.android.support\customtabs\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94ba691efc31bf53264db0716d9c9ec03843ea31">
+        <dex dex="C:\Users\Anti\Desktop\PRT\RFT_Login_Facebook-master\RFT_Login_pelda\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-customtabs-25.0.0_8413dc1315961c5aecd1523befc62167336170c8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anti\Desktop\PRT\RFT_Login_Facebook-master\RFT_Login_pelda\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="C:\Users\Anti\Desktop\PRT\RFT_Login_Facebook-master\RFT_Login_pelda\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.8.0_7219e38c21f3d52fd1a6c7526e5ee1a58da01468\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anti\Desktop\PRT\RFT_Login_Facebook-master\RFT_Login_Facebook-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="C:\Users\Anti\Desktop\PRT\RFT_Login_Facebook-master\RFT_Login_Facebook-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.8.0_e7976b763f341fe49deacd06fa2d3ea664889dc6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anti\Desktop\PRT\RFT_Login_Facebook-master\RFT_Login_Facebook-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="62ff84124b89177abc0c27f3e38c9732f2d41617">
+        <dex dex="C:\Users\Anti\Desktop\PRT\RFT_Login_Facebook-master\RFT_Login_Facebook-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-9.6.1_9a05471db2250240f122c3b12d2fc45b540e0ef8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anti\Desktop\PRT\RFT_Login_Facebook-master\RFT_Login_Facebook-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="aca6b41008ebec53e9abe7c7c244ab3cbe1a205e">
+        <dex dex="C:\Users\Anti\Desktop\PRT\RFT_Login_Facebook-master\RFT_Login_Facebook-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_c15ed6589f6c7bb04969e77a4e39ef5ea5cac723\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anti\Desktop\PRT\RFT_Login_Facebook-master\RFT_Login_pelda\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="C:\Users\Anti\Desktop\PRT\RFT_Login_Facebook-master\RFT_Login_pelda\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.8.0_e95915a7785d0fcb4fa76f734af21b1e1436b456\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anti\.gradle\caches\modules-2\files-2.1\com.google.protobuf\protobuf-java\3.1.0\e13484d9da178399d32d2d27ee21a77cfb4b7873\protobuf-java-3.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e13484d9da178399d32d2d27ee21a77cfb4b7873">
+        <dex dex="C:\Users\Anti\Desktop\PRT\RFT_Login_Facebook-master\RFT_Login_Facebook-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\protobuf-java-3.1.0_ca6e483e2979502a064a7e6ce22a439a040bd51a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anti\Desktop\PRT\RFT_Login_Facebook-master\RFT_Login_pelda\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a1ed98e01bd58976d80c062fd0ea2968a1ff68a1">
+        <dex dex="C:\Users\Anti\Desktop\PRT\RFT_Login_Facebook-master\RFT_Login_pelda\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-9.8.0_f022f2e5f5eb72c9b98d87d63c645a0d61773d5d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anti\Desktop\PRT\RFT_Login_Facebook-master\RFT_Login_pelda\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="C:\Users\Anti\Desktop\PRT\RFT_Login_Facebook-master\RFT_Login_pelda\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.8.0_24fce721ca501ead493b4d1bb438585718feb8cb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anti\Desktop\PRT\RFT_Login_Facebook-master\RFT_Login_Facebook-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a1ed98e01bd58976d80c062fd0ea2968a1ff68a1">
+        <dex dex="C:\Users\Anti\Desktop\PRT\RFT_Login_Facebook-master\RFT_Login_Facebook-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-9.8.0_34e70b8ecd0a2f9eaced61f313e82e05578b396d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anti\Desktop\PRT\RFT_Login_Facebook-master\RFT_Login_Facebook-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ca851be26ff89f5b32cc222cee98139fb3fac830">
+        <dex dex="C:\Users\Anti\Desktop\PRT\RFT_Login_Facebook-master\RFT_Login_Facebook-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-9.8.0_498537b0a309394964ff94349704aeeacdd24d51\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anti\Desktop\PRT\RFT_Login_Facebook-master\RFT_Login_Facebook-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="C:\Users\Anti\Desktop\PRT\RFT_Login_Facebook-master\RFT_Login_Facebook-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.8.0_0891017c24cb0a5b900a8a6960fa73a341f62c69\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anti\Desktop\PRT\RFT_Login_Facebook-master\RFT_Login_pelda\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="C:\Users\Anti\Desktop\PRT\RFT_Login_Facebook-master\RFT_Login_pelda\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.1_60c6dbc8b1edb95cde2c08dfb1e6ab4a1769432a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anti\Desktop\PRT\RFT_Login_Facebook-master\RFT_Login_Facebook-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="C:\Users\Anti\Desktop\PRT\RFT_Login_Facebook-master\RFT_Login_Facebook-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.0_5fd01e452fbef4e2c50cdf19ed0ac2f3642dfd8b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anti\Desktop\PRT\RFT_Login_Facebook-master\RFT_Login_pelda\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\Anti\Desktop\PRT\RFT_Login_Facebook-master\RFT_Login_pelda\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_f8c3a51915833b1072bb117238ae6d0b52ad7f60\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anti\Desktop\PRT\RFT_Login_Facebook-master\RFT_Login_pelda\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8a372c4191f80489770a231f7be4820b204b886a">
+        <dex dex="C:\Users\Anti\Desktop\PRT\RFT_Login_Facebook-master\RFT_Login_pelda\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-25.0.0_60d622ea5ce70a57929f819f6332b92e1256eaac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anti\Desktop\PRT\RFT_Login_Facebook-master\RFT_Login_Facebook-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="71e2b58628f55817422be8e04d9861f54a2847a3">
+        <dex dex="C:\Users\Anti\Desktop\PRT\RFT_Login_Facebook-master\RFT_Login_Facebook-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_d3a1382bd52dc9740c1df23798a8dd3012303e1c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anti\Desktop\PRT\RFT_Login_Facebook-master\RFT_Login_Facebook-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="C:\Users\Anti\Desktop\PRT\RFT_Login_Facebook-master\RFT_Login_Facebook-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.0_8fc4f5c6a190381c5a35cb6c36201c0fbebe79f1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anti\Desktop\PRT\RFT_Login_Facebook-master\RFT_Login_pelda\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b5d97722ada6a6de9501f162d7e2c603d566e1d7">
+        <dex dex="C:\Users\Anti\Desktop\PRT\RFT_Login_Facebook-master\RFT_Login_pelda\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_acf19021fa38b9d14220a839bd38ccf7125dc4e7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anti\Desktop\PRT\RFT_Login_Facebook-master\RFT_Login_pelda\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.17.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="23c7c34bfb3cdc0599d49e581486b179bc6b2eee">
+        <dex dex="C:\Users\Anti\Desktop\PRT\RFT_Login_Facebook-master\RFT_Login_pelda\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.android-facebook-android-sdk-4.17.0_ffe1ef5bd9d832e2a38bf620aed255e6ae82d592\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anti\Desktop\PRT\RFT_Login_Facebook-master\RFT_Login_Facebook-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="C:\Users\Anti\Desktop\PRT\RFT_Login_Facebook-master\RFT_Login_Facebook-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_8ddd3a47848c8efa91130b4cb20364be08c41c23\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anti\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="C:\Users\Anti\Desktop\PRT\RFT_Login_Facebook-master\RFT_Login_Facebook-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.0_3301dafae5f62d537aa1c1303edf9170bbc82a89\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anti\Desktop\PRT\RFT_Login_Facebook-master\RFT_Login_Facebook-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="C:\Users\Anti\Desktop\PRT\RFT_Login_Facebook-master\RFT_Login_Facebook-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_24757fb3c590325f12229ef3e886f8f2844422c2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anti\Desktop\PRT\RFT_Login_Facebook-master\RFT_Login_Facebook-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="79f521967ad7f49b34748db89df02852c2b2f87b">
+        <dex dex="C:\Users\Anti\Desktop\PRT\RFT_Login_Facebook-master\RFT_Login_Facebook-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-9.6.1_421a3790ce65d452e1f75c20c24e8b21ab7b5355\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anti\Desktop\PRT\RFT_Login_Facebook-master\RFT_Login_pelda\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="C:\Users\Anti\Desktop\PRT\RFT_Login_Facebook-master\RFT_Login_pelda\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.0_ec230e358421c7ed8175c553e70c27019599b759\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anti\Desktop\PRT\RFT_Login_Facebook-master\RFT_Login_Facebook-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\Anti\Desktop\PRT\RFT_Login_Facebook-master\RFT_Login_Facebook-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_40ddb577cc5d56a4c649caaad348104840ddb06c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anti\Desktop\PRT\RFT_Login_Facebook-master\RFT_Login_Facebook-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="C:\Users\Anti\Desktop\PRT\RFT_Login_Facebook-master\RFT_Login_Facebook-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.8.0_f35fde37428fdcb1375e68acf74ed3279d21dd44\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anti\Desktop\PRT\RFT_Login_Facebook-master\RFT_Login_pelda\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="98eae1d747c56ba9cdb01ae80759c4bec52b2b16">
+        <dex dex="C:\Users\Anti\Desktop\PRT\RFT_Login_Facebook-master\RFT_Login_pelda\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_0e0785377c9fd53fbea66d62d5f0ef04f1436f92\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anti\Desktop\PRT\RFT_Login_Facebook-master\RFT_Login_pelda\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="C:\Users\Anti\Desktop\PRT\RFT_Login_Facebook-master\RFT_Login_pelda\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_a763f5a724a5f3854356ec590c71f123b33d7f3a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anti\Desktop\PRT\RFT_Login_Facebook-master\RFT_Login_pelda\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="C:\Users\Anti\Desktop\PRT\RFT_Login_Facebook-master\RFT_Login_pelda\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.0_08347befd882d9924b2f0b7edeeacf68b8e4ccef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anti\Desktop\PRT\RFT_Login_Facebook-master\RFT_Login_pelda\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="C:\Users\Anti\Desktop\PRT\RFT_Login_Facebook-master\RFT_Login_pelda\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_cd69a5a8d0fb49f35f0d67787f55ba9f5ade23ae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anti\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-applinks\1.4.0\8ad21bf21784dacce5f2043afb97218cc377e835\bolts-applinks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="C:\Users\Anti\Desktop\PRT\RFT_Login_Facebook-master\RFT_Login_Facebook-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-applinks-1.4.0_f1c6cecc78e0238b34f2d9c8bb69883a00e205c5\classes.dex" />
+    </item>
+
+</items>
